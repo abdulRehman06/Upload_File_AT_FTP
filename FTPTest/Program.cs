@@ -30,12 +30,12 @@ namespace FTPTest
          String ftp_url = @"ftp://192.168.42.186/";
 
         String FIle_Path = @"D:\Encrypted-CardProduction.txtCPE00000057CARDEXPORT20190829184508-AL_Fardan_Debit";
-            String nFileName = @"XYX";
+            String fuleName = @"Encrypted-CardProduction.txtCPE00000057CARDEXPORT20190829184508-AL_Fardan_Debit";
             //   Download_Files();
             FTPConnection FTPObj = new FTPConnection(ftp_url, ftp_user, ftp_password);
 
 
-            FTPObj.UploadFileToFTP(FIle_Path , nFileName);
+            FTPObj.UploadFileToFTP(FIle_Path  , fuleName);
 
             Console.WriteLine("Uploading is done!");
             Console.WriteLine("Uploading is done!");

@@ -136,11 +136,11 @@ namespace FTPTest
 
         }
 
-        public  void UploadFileToFTP(String source, String nFileName)
+        public  void UploadFileToFTP(String source , String fuleName)
         {
             //  FtpWebRequest ftpRequest = null;
 
-            FtpWebRequest request = (FtpWebRequest)WebRequest.Create(ftp_url + "/" + nFileName);
+            FtpWebRequest request = (FtpWebRequest)WebRequest.Create(ftp_url + "/" + fuleName);
 
             request.Credentials = new NetworkCredential(ftp_user, ftp_password);
 
