@@ -1,0 +1,11 @@
+c:\users\rehman.rasheed\documents\visual studio 2017\Projects\FTPTest\FTPTest\bin\Debug\FTPTest.exe.config
+c:\users\rehman.rasheed\documents\visual studio 2017\Projects\FTPTest\FTPTest\bin\Debug\FTPTest.exe
+c:\users\rehman.rasheed\documents\visual studio 2017\Projects\FTPTest\FTPTest\bin\Debug\FTPTest.pdb
+c:\users\rehman.rasheed\documents\visual studio 2017\Projects\FTPTest\FTPTest\obj\Debug\FTPTest.exe
+c:\users\rehman.rasheed\documents\visual studio 2017\Projects\FTPTest\FTPTest\obj\Debug\FTPTest.pdb
+C:\Users\rehman.rasheed\Desktop\FTP_UPLOAD_FILE\FTPTest\FTPTest\bin\Debug\FTPTest.exe.config
+C:\Users\rehman.rasheed\Desktop\FTP_UPLOAD_FILE\FTPTest\FTPTest\bin\Debug\FTPTest.exe
+C:\Users\rehman.rasheed\Desktop\FTP_UPLOAD_FILE\FTPTest\FTPTest\bin\Debug\FTPTest.pdb
+C:\Users\rehman.rasheed\Desktop\FTP_UPLOAD_FILE\FTPTest\FTPTest\obj\Debug\FTPTest.csprojResolveAssemblyReference.cache
+C:\Users\rehman.rasheed\Desktop\FTP_UPLOAD_FILE\FTPTest\FTPTest\obj\Debug\FTPTest.exe
+C:\Users\rehman.rasheed\Desktop\FTP_UPLOAD_FILE\FTPTest\FTPTest\obj\Debug\FTPTest.pdb
